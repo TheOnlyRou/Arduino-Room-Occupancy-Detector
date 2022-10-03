@@ -19,11 +19,11 @@ To track, in real time, the occupancy state of each room in a household or offic
 - A screen of size at least 20x4 to display the occupancy states
 
 ## System Design
-
+TODO - Add System Design Image
 <Image Placeholder>
 
 ## Placement of Components
-
+TODO - Add Components placement Images
 <Image Placeholder>
 
 ## How to detect Occupancy?
